@@ -31,7 +31,7 @@
    ```sh
    npm install
    ```
-   2. Start the server 
+ 3. Start the server 
    ```sh
    npm start
    ```
@@ -55,8 +55,6 @@ Feel free to check the [issues page](https://github.com/afcastaneda223/).
 ## 👋 Acknowledgements
 
 My family
-
-[Design by Nelson Sakwa.](https://www.behance.net/sakwadesignstudio) 
 
 ## Show your support
 
