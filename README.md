@@ -31,7 +31,7 @@
    ```sh
    npm install
    ```
- 3. Start the server 
+3. Start the server 
    ```sh
    npm start
    ```
